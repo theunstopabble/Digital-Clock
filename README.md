@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by [**theunstopabble**](https://github.com/theunstopabble)
+Made by [**theunstopabble**](https://github.com/theunstopabble)
